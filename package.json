@@ -1,0 +1,22 @@
+{
+  "name": "quarentine-wallball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsmiller95/Quarantine-Wallball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsmiller95/Quarantine-Wallball/issues"
+  },
+  "homepage": "https://github.com/dsmiller95/Quarantine-Wallball#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
